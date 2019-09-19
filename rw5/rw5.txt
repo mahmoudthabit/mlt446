@@ -1,0 +1,3 @@
+the tutorial was simple but most of class did not know PY so it was not easy 
+windows commands was diffrent that mac
+i did not know how to write test in py but the tutorial helped
